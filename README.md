@@ -18,8 +18,6 @@
 
 
 
-
-
 ## 3주차: HTML
 
 <a href="HTML/1.Intro.md">1. Intro</a>
@@ -53,6 +51,10 @@
 <a href="CSS/6.위치와관련된프로퍼티(1).md">6. 위치와 관련된 프로퍼티(1)</a>
 
 <a href="CSS/7.위치와관련된프로퍼티(2).md">7. 위치와 관련된 프로퍼티(2)</a>
+
+<a href="CSS/8.상속과우선순위.md">8. 상속과 우선순위</a>
+
+<a href="CSS/9.Bootstrap.md">9. Bootstrap</a>
 
 
 
