@@ -58,5 +58,15 @@
 
 
 
+## 9주차: Django Settings
 
+<a href="Django_Settings/1.오리엔테이션.md">1. 오리엔테이션</a>
+
+<a href="Django_Settings/2.Windows환경설정.md">2. Windows 환경설정</a>
+
+<a href="Django_Settings/3.터미널사용법(1).md">3. 터미널 사용법(1)</a>
+
+<a href="Django_Settings/4.터미널사용법(2).md">4. 터미널 사용법(2)</a>
+
+<a href="Django_Settings/5.Djagno시작하기.md">5. Djagno 시작하기</a>
 
