@@ -2,6 +2,8 @@
 
 ## 2주차: 웹 기초
 
+<a href="웹기초/#한페이지용.md"># 한페이지로 요약 #</a>
+
 <a href="웹기초/1.Web&WebService.md">1. Web & WebService</a>
 
 <a href="웹기초/2.웹서버.md">2. 웹 서버</a>
@@ -20,6 +22,8 @@
 
 ## 3주차: HTML
 
+<a href="HTML/#한페이지용.md"># 한페이지로 요약 #</a>
+
 <a href="HTML/1.Intro.md">1. Intro</a>
 
 <a href="HTML/2.HTML기초.md">2. HTML 기초</a>
@@ -37,6 +41,8 @@
 
 
 ## 6주차: CSS
+
+<a href="CSS/#한페이지용.md"># 한페이지로 요약 #</a>
 
 <a href="CSS/1.CSS기초.md">1. CSS 기초</a>
 
@@ -60,6 +66,8 @@
 
 ## 9주차: Django Settings
 
+<a href="Django_Settings/#한페이지용.md"># 한페이지로 요약 #</a>
+
 <a href="Django_Settings/1.오리엔테이션.md">1. 오리엔테이션</a>
 
 <a href="Django_Settings/2.Windows환경설정.md">2. Windows 환경설정</a>
@@ -69,4 +77,44 @@
 <a href="Django_Settings/4.터미널사용법(2).md">4. 터미널 사용법(2)</a>
 
 <a href="Django_Settings/5.Djagno시작하기.md">5. Djagno 시작하기</a>
+
+
+
+## 10주차: Django
+
+<a href="Django/#한페이지용.md"># 한페이지로 요약 #</a>
+
+<a href="Django/1.MTV패턴.md">1. MTV 패턴</a>
+
+<a href="Django/2.Django실습(1).md">2. Django 실습 (1)</a>
+
+<a href="Django/3.Django실습(2).md">3. Django 실습 (2)</a>
+
+<a href="Django/4.Git사용법.md">4. Git 사용법</a>
+
+<a href="Django/5.Django와데이터베이스.md">5. Django와 데이터베이스</a>
+
+<a href="Django/6.Model실습.md">6. Model 실습</a>
+
+<a href="Django/7.CRUD-Read.md">7. CRUD - Read</a>
+
+<a href="Django/8.CRUD-Create.md">8. CRUD - Create</a>
+
+<a href="Django/9.CRUD-Update.md">9. CRUD - Update</a>
+
+<a href="Django/10.CRUD-Delete.md">10. CRUD - Delete</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
