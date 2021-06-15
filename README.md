@@ -2,7 +2,7 @@
 
 ## 2주차: 웹 기초
 
-<a href="웹기초/#한페이지용.md"># 한페이지로 요약 #</a>
+<a href="웹기초/0.한페이지용.md"># 한페이지로 요약 #</a>
 
 <a href="웹기초/1.Web&WebService.md">1. Web & WebService</a>
 
@@ -22,7 +22,7 @@
 
 ## 3주차: HTML
 
-<a href="HTML/#한페이지용.md"># 한페이지로 요약 #</a>
+<a href="HTML/0.한페이지용.md"># 한페이지로 요약 #</a>
 
 <a href="HTML/1.Intro.md">1. Intro</a>
 
@@ -42,7 +42,7 @@
 
 ## 6주차: CSS
 
-<a href="CSS/#한페이지용.md"># 한페이지로 요약 #</a>
+<a href="CSS/0.한페이지용.md"># 한페이지로 요약 #</a>
 
 <a href="CSS/1.CSS기초.md">1. CSS 기초</a>
 
@@ -66,7 +66,7 @@
 
 ## 9주차: Django Settings
 
-<a href="Django_Settings/#한페이지용.md"># 한페이지로 요약 #</a>
+<a href="Django_Settings/0.한페이지용.md"># 한페이지로 요약 #</a>
 
 <a href="Django_Settings/1.오리엔테이션.md">1. 오리엔테이션</a>
 
@@ -82,7 +82,7 @@
 
 ## 10주차: Django
 
-<a href="Django/#한페이지용.md"># 한페이지로 요약 #</a>
+<a href="Django/0.한페이지용.md"># 한페이지로 요약 #</a>
 
 <a href="Django/1.MTV패턴.md">1. MTV 패턴</a>
 
