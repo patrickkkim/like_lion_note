@@ -106,7 +106,23 @@
 
 
 
+## 13주차: Django - 2주차
 
+<a href="Django_2주차/1.Template상속.md">1. Template 상속</a>
+
+<a href="Django_2주차/2.Static.md">2. Static</a>
+
+<a href="Django_2주차/3.Media.md">3. Media</a>
+
+<a href="Django_2주차/4.Form.md">4. Form</a>
+
+<a href="Django_2주차/5.User확장과인증(이론).md">5. User 확장과 인증(이론)</a>
+
+<a href="Django_2주차/6.User확장과인증(실습1).md">6. User 확장과 인증(실습1)</a>
+
+<a href="Django_2주차/7.User확장과인증(실습2).md">7. User 확장과 인증(실습2)</a>
+
+<a href="Django_2주차/8.Paginator.md">8. Paginator</a>
 
 
 
