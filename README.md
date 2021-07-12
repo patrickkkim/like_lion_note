@@ -126,7 +126,21 @@
 
 
 
+## 14주차: Django - 3주차
 
+<a href="Django_3주차/1.배포사전준비.md">1. 배포 사전준비</a>
+
+<a href="Django_3주차/2.Heroku배포하기.md">2. Heroku 배포하기</a>
+
+<a href="Django_3주차/3.Ubuntu배포하기.md">3. Ubuntu 배포하기</a>
+
+<a href="Django_3주차/4.Docker란.md">4. Docker 란?</a>
+
+<a href="Django_3주차/5.Docker이미지생성.md">5. Docker 이미지 생성</a>
+
+<a href="Django_3주차/6.Docker서버에배포하기.md">6. Docker 서버에 배포하기</a>
+
+<a href="Django_3주차/7.Docker이미지자동생성.md">7. Docker 이미지 자동 생성</a>
 
 
 
